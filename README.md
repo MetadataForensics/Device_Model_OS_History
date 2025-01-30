@@ -35,4 +35,4 @@ This data pertains to Apple devices recorded within the healthdb_secure.sqlite a
 Our Device and OS Timeframe and Device Isolation queries support iOS 15, 16, 17, and 18. Current Model and OS only supports iOS 18.
 
 # More Details
-Additional details published within 'Beyond the Logs: Using the Health App to Uncover Device Model and OS History' at URL.
+Additional details published within 'Beyond the Logs: Using the Health App to Uncover Device Model and OS History' at [URL](https://metadataperspective.com/2025/01/30/beyond-the-logs-using-the-health-app-to-uncover-device-model-and-os-history/).
