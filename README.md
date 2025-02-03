@@ -7,7 +7,7 @@ Reviewing all devices used by an Apple ID, their OS versions, and the timeframes
 
 - The SQL queries will work in most SQLite database viewers able to execute SQL queries. 
 - The ConnectedDeviceHistory.xml file is a Magnet AXIOM Custom Artifact, which can be added to Magnet AXIOM Process through Tools > Manage custom artifacts > ADD NEW CUSTOM ARTIFACT. Once added, the artifacts are named Connected Device History and OS Version, Consolidated Connected Device History, and Current Device Information.
-- As always, we remain a proud support of the LEAPPS project, and this will be submitted to iLEAPP as well. 
+- **Update!** The artifact work herein is now available within iLEAPP as well, available [here](https://github.com/abrignoni/iLEAPP). Thanks to all on the LEAPPs team for the review and approval of these artifacts! As always, we remain a proud support of the LEAPPS project.
 
 # Artifact Examples:
 Device and OS Timeframe:
